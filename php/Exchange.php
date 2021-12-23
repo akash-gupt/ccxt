@@ -167,6 +167,7 @@ class Exchange {
         'upbit',
         'vcc',
         'wavesexchange',
+        'wazirx',
         'whitebit',
         'xena',
         'yobit',

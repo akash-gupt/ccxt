@@ -530,6 +530,7 @@ declare module 'ccxt' {
     export class upbit extends Exchange {}
     export class vcc extends Exchange {}
     export class wavesexchange extends Exchange {}
+    export class wazirx extends Exchange {}
     export class whitebit extends Exchange {}
     export class xena extends Exchange {}
     export class yobit extends Exchange {}
@@ -646,6 +647,7 @@ declare module 'ccxt' {
         | 'upbit'
         | 'vcc'
         | 'wavesexchange'
+        | 'wazirx'
         | 'whitebit'
         | 'xena'
         | 'yobit'
